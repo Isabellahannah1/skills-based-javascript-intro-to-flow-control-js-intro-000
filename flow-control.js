@@ -29,3 +29,4 @@ function ternaryTeenager(age) {
   return "You are not a teenager";
 }
 }
+
